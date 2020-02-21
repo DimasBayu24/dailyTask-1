@@ -9,4 +9,4 @@ function decimalToBinary(number) {
     console.log("Binary number: " + binary.reverse().join(""));
   }
   
-  decimalToBinary(10);
+  decimalToBinary(16);

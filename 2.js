@@ -11,7 +11,8 @@ function primeFactorsTo(max) {
         }
       }
     }
-    return primes;
+    // return primes;
+  
   }
   
   function primePyramid(length) {
@@ -23,6 +24,7 @@ function primeFactorsTo(max) {
       }
       console.log(primes.join(" "));
     }
+ 
   }
   
-  console.log(primePyramid(9));
+  console.log(primePyramid(6));
